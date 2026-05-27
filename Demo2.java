@@ -1,6 +1,9 @@
 public class Demo2 {
     public static void main(String[] args){
         //Integers --> byte, short, int, long
+        //Binary(2), Octal(8), Hexadecimal(16) number system
+        //byte b = 5;
+
         byte b = 5;
         short s = 20;
         int i = 2000;
